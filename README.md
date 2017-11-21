@@ -1,2 +1,2 @@
 # hello-world
-Just another repositry
+I am a junior high scool student!
